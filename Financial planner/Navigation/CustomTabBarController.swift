@@ -1,8 +1,21 @@
-//
-//  CustomTabBarController.swift
-//  Financial planner
-//
-//  Created by @_@ on 06.06.2024.
-//
+import UIKit
 
-import Foundation
+final class CustomTabBarController: UITabBarController {
+    
+    // MARK: - Private properties
+    private let customTabBar = CustomTabBar()
+    
+    // MARK: - Lifecycle
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        setValue(customTabBar, forKey: "tabBar")
+        setupTabBarItems()
+    }
+    
+    // MARK: - Setup
+    private func setupTabBarItems() {
+        
+        
+    }
+}
