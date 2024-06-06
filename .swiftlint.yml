@@ -1,0 +1,4 @@
+# By default, SwiftLint uses a set of sensible default rules you can adjust:
+disabled_rules:
+    - trailing_whitespace
+    - vertical_whitespace
