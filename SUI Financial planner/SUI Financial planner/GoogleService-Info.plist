@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>896908240517-sorqmq5j48p5tanehqkng33skt38v3d4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.896908240517-sorqmq5j48p5tanehqkng33skt38v3d4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5HOUcbeTrOGDQXFtDIfA1uxgai7K6wjo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>896908240517</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vargunin.SUI-Financial-planner</string>
+	<key>PROJECT_ID</key>
+	<string>financial-planner-ff1fd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>financial-planner-ff1fd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:896908240517:ios:19321641b9d92148c8abec</string>
+</dict>
+</plist>
