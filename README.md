@@ -1,2 +1,4 @@
 # Financial-planner
-Курсовая работа 3 курс
+SwiftUI + Firebase
+
+Из интересного - реализация графиков с анимациями на SwiftUI.
